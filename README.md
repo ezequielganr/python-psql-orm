@@ -2,7 +2,7 @@
 
 ## Installation :pushpin:
 
-To install the library you must make a ```git clone``` of the repository, create a virtual environment and install the dependencies
+To install the library you must make a ```git clone``` of the repository, create a virtual environment and install the dependencies and configure your database in ```config.json``` file
 
 ## User guide :dart:
 
