@@ -1,4 +1,4 @@
-# PSQL :fire:
+# PSQL ORM :fire:
 
 ## Installation :pushpin:
 
